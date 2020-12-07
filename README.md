@@ -1,2 +1,2 @@
 # diyha-switch
-A do it your self switch implemented in Python on Raspberry PI
+A do it your self home automation system switch implemented in Python on Raspberry PI
